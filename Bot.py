@@ -7,7 +7,7 @@ import time
 
 # List of credentials for 6 people
 users = [
-    {"id": "user1@au.edu", "password": "password1"},
+    {"id": "u6711424@au.edu", "password": "XPlaizaX$1412"},
     {"id": "user2@au.edu", "password": "password2"},
     {"id": "user3@au.edu", "password": "password3"},
     {"id": "user4@au.edu", "password": "password4"},
